@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "BirdSong"
+  site-url: "https://exiomius.github.io/BirdSong"
+  description: "Repo for my Masters project about birdsong"
+  repo-branch: main
+  repo-url: "https://github.com/exiomius/BirdSong"
