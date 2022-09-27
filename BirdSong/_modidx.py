@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://exiomius.github.io',
                 'git_url': 'https://github.com/exiomius/BirdSong',
                 'lib_path': 'BirdSong'},
-  'syms': {'BirdSong.core': {'BirdSong.core.foo': ('core.html#foo', 'BirdSong/core.py')}}}
+  'syms': { 'BirdSong.core': { 'BirdSong.core.foo': ('core.html#foo', 'BirdSong/core.py'),
+                               'BirdSong.core.say_hello': ('core.html#say_hello', 'BirdSong/core.py')}}}
